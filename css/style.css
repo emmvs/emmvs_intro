@@ -1,0 +1,85 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,700&family=Vollkorn:wght@400;700&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/* Import compnent files */
+@import url("/landing/css/buttons.css");
+@import url("/landing/css/cards.css");
+@import url("/landing/css/container.css");
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: Open Sans;
+  background-color: #d8e3e6;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Trebuchet MS';
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+.text-center {
+  text-align: center;
+}
+
+/* Custom design below! */
+
+.banner {
+  background-image: url(../images/orca.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+  text-align: center;
+}
+.banner h1 {
+  color: white;
+  font-size: 40px;
+  text-shadow: 1px 1px 3px rgb(0 0 0 / 20%);
+  margin: 0;
+}
+
+.banner p {
+  color: white;
+  font-size: 20px;
+  text-shadow: 1px 1px 3px rgb(0 0 0 / 20%);
+  margin-top: 0;
+  margin-bottom: 30px;
+  opacity: 0,7;
+}
+
+#footer {
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+#footer h3 {
+   font-size: 20px;
+   text-align: center;
+}
+
+#footer a {
+   font-size: 20px;
+   color: black;
+}
+
+.list-inline {
+  list-style: none;
+  padding: 0px;
+}
+
+.list-inline > li {
+  display: inline-block;
+}
+
+.fab {
+  font-size: 25px;
+  margin: 2px 10px;
+}

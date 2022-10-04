@@ -10,10 +10,4 @@
 
 Currently learning React.js and Next.js
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmvs&show_icons=true&theme=cobalt)
-
-**Find me on**
-
-[LinkedIn]([https://www.linkedin.com/in/emmvs/])
-
-[Instagram]([https://www.instagram.com/emmvs/])
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmvs&show_icons=true&theme=radical)

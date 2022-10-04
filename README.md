@@ -1,4 +1,4 @@
-**☀️ Wassuuup I’m Emma**
+**☀️ Wassuuup, I’m Emma**
 
 👩🏼‍💻 Junior Web Dev
 

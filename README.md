@@ -5,12 +5,13 @@
 
 **Languages, Frameworks & Tools**
 
-HTML, CSS, JavaScript, and Ruby on Rails.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Currently learning React.js and Next.js
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmvs&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmvs&show_icons=true&theme=cobalt)
 
 **Find me on**
-LinkedIn
-Instagram
+
+[LinkedIn]([url](https://www.linkedin.com/in/emmvs/))
+[Instagram]([url](https://www.instagram.com/emmvs/))

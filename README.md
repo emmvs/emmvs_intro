@@ -8,7 +8,7 @@ Additionally, as a team of 5 Le Wagon alumni, we are currently building a quiz a
 
 **Languages, Frameworks & Tools**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/emmvs/github-readme-stats)
+Ruby on Rails, HTML, CSS & JS
 
 Currently learning React.js and Next.js
 

@@ -1,33 +1,17 @@
-**☀️ Wassuuup, I’m Emma**
-
-👩🏼‍💻 Junior Web Dev
-
-🍃 I also work as a Teaching Assistant at Le Wagon, where I learned how to code. 
-
-Additionally, as a team of 5 Le Wagon alumni, we are currently building a quiz app for an NGO called Tech4Girls. In the app, students, who are part of the Tech4Girls Education Program, can practice their knowledge and coding skills. This happens as part of the Le Wagon for Good initiative.
-
-**Languages, Frameworks & Tools**
-
-Ruby on Rails, HTML, CSS & JS
-
-Currently learning React.js and Next.js
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmvs&show_icons=true&theme=radical)
-
 <h1 align="center">☀️ Wassuuup, I’m Emma</h1>
-<h3 align="center">A passionate full-stack developer from Berlin</h3>
+<h3 align="center">Passionate jr. full-stack web developer from Berlin, Germany</h3>
 
-- 🔭 Currently I'm working on **nb-jb**
+- 👩🏼‍💻 Currently I'm working on **nb-jb**, a website for women billard players
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native and Next.js** and I work as a Teaching Assistant at Le Wagon, where I learned how to code. 
 
-- 👯 I’m collaborating on **Tech for Girls**
+- 👯 Additionally, as a team of 5 Le Wagon alumni, we are currently collaborating on building a quiz app for an NGO called **Tech4Girls**. In the app, students, who are part of the Tech4Girls Education Program, can practice their knowledge and coding skills. This happens as part of the Le Wagon for Good initiative. 
 
-- 📝 I regularly write newsletters on [www.hivetracks.com](www.hivetracks.com)
+- 📝 I regularly write newsletters for [HiveTracks](www.hivetracks.com)
 
-- 📫 How to reach me **emma@ruenzel.de**
+- 📫 You can reach me at **emma@ruenzel.de**
 
-- ⚡ Fun fact **Why bees don't go to churches?**
+- ⚡ My favorite joke: **Why bees don't go to churches?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

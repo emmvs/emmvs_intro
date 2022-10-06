@@ -1,5 +1,5 @@
 <h1 align="center">☀️ Wassuuup, I’m Emma</h1>
-<h3 align="center">Passionate jr. full-stack web developer from Berlin, Germany</h3>
+<h3 align="center">Passionate jr. full-stack web dev from Berlin, Germany</h3>
 
 - 👩🏼‍💻 Working on **nb-jb**, a website for women billard players
 

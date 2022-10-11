@@ -11,7 +11,7 @@
 
 - 📫 You can reach me at **emma@ruenzel.de**
 
-- ⚡ My favorite joke: **Why bees don't go to churches?**
+- ⚡ My favorite joke: **Why do not bees go to churches?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

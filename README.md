@@ -5,7 +5,7 @@
 
 - 🌱 Learning **React Native** while working as a Teacher & TA at Le Wagon, where I also learned how to code. 
 
-- 👯 Additionally, as a team of 5 Le Wagon alumni, we are currently collaborating on building a quiz app for an NGO called **Tech4Girls**. In the app, students, who are part of the Tech4Girls Education Program, can practice their knowledge and coding skills. This happens as part of the Le Wagon for Good initiative. 
+- 👯 Additionally, as a team of 5 Le Wagon alumni, we are currently collaborating on building a quiz app for an NGO called **Tech4Girls**. In the app, students, who are part of the Tech4Girls Education Program, can practice their knowledge and coding skills.
 
 - 🐝 I regularly write newsletters for [HiveTracks](www.hivetracks.com)
 

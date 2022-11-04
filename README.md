@@ -11,12 +11,6 @@
 
 - 📫 Reach me at **emma@ruenzel.de**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/emmvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmvs" height="30" width="40" /></a>
-<a href="https://instagram.com/emmvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmvs" height="30" width="40" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmvs&show_icons=true&locale=en&layout=compact" alt="emmvs" /></p>
 
 <h3 align="left">Languages and Tools:</h3>

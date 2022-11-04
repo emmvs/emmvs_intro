@@ -1,15 +1,15 @@
 <h2 align="center">☀️ Wassuuup, I’m Emma</h2>
-<h3 align="center">Passionate jr. full-stack web dev from Berlin, Germany</h3>
+<h3 align="center">Jr. full-stack web dev from Berlin, Germany</h3>
 
 - 👩🏼‍💻 Working on **nb-jb**, a website for women billard players
 
 - 🌱 Currently learning **React Native** while working as a Teacher & TA at Le Wagon, where I also learned how to code. 
 
-- 👯 Additionally, as a team of 5 Le Wagon alumni, we are currently collaborating on building a quiz app for an NGO called **Tech4Girls**. In the app, students, who are part of the Tech4Girls Education Program, can practice their knowledge and coding skills.
+- 👯 Additionally, as a team of 5, we are currently collaborating on building a quiz app for an NGO called **Tech4Girls**. In the app, students, who are part of the Tech4Girls Education Program, can practice their knowledge and coding skills.
 
 - 🐝 I regularly write newsletters for [HiveTracks](www.hivetracks.com)
 
-- 📫 You can reach me at **emma@ruenzel.de**
+- 📫 Reach me at **emma@ruenzel.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

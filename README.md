@@ -3,7 +3,7 @@
 
 - 👩🏼‍💻 Working on **nb-jb**, a website for women billard players
 
-- 🌱 Currently learning **React Native** while working as a Teacher & TA at Le Wagon, where I also learned how to code. 
+- 🌱 Currently learning **React Native** while working as a Teacher at a coding school. 
 
 - 👯 Additionally, as a team of five, we are currently collaborating on building a quiz app for an NGO called **Tech4Girls** where students, who are part of the Tech4Girls Education Program, can practice their coding skills.
 

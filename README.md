@@ -7,7 +7,7 @@
 
 - 👯 Additionally, as a team of five, we are currently collaborating on building a quiz app for an NGO called **Tech4Girls** where students, who are part of the Tech4Girls Education Program, can practice their coding skills.
 
-- 🐝 I regularly write newsletters for [HiveTracks](www.hivetracks.com)
+- 🐝 I write newsletters for [HiveTracks](www.hivetracks.com)
 
 - 📫 Reach me at **emma@ruenzel.de**
 

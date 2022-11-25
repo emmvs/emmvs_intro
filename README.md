@@ -1,4 +1,4 @@
-<h2 align="center">☀️ Wassuuup, I’m Emma</h2>
+<h3 align="center">☀️ Wassuuup, I’m Emma</h3>
 <h3 align="center">Jr. full-stack web dev from Berlin, Germany || Beelancer </h3>
 
 - 👩🏼‍💻 Working on **nb-jb**, a website for women billard players

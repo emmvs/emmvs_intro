@@ -5,7 +5,7 @@
 
 🌱 Currently learning **React Native** while working as a Teacher at a coding school 
 
-💻 Collaborating on building a quiz app for an NGO called **Tech4Girls** where students, who are part of the Tech4Girls Education Program, can practice their coding skills
+💻 Collaborating on building a quiz app for a NGO called **Tech4Girls**
 
 🐝 I write newsletters for [HiveTracks](www.hivetracks.com)
 

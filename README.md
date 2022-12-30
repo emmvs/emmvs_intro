@@ -1,15 +1,15 @@
 <h3 align="center">☀️ Wassuuup, I’m Emma</h3>
 <h3 align="center">Jr. full-stack web dev </h3>
 
-- 👩🏼‍💻 Working on **nb-jb**, a website for women billard players
+👩🏼‍💻 Working on **nb-jb**, a website for women billard players
 
-- 🌱 Currently learning **React Native** while working as a Teacher at a coding school 
+🌱 Currently learning **React Native** while working as a Teacher at a coding school 
 
-- 💻 Collaborating on building a quiz app for an NGO called **Tech4Girls** where students, who are part of the Tech4Girls Education Program, can practice their coding skills
+💻 Collaborating on building a quiz app for an NGO called **Tech4Girls** where students, who are part of the Tech4Girls Education Program, can practice their coding skills
 
-- 🐝 I write newsletters for [HiveTracks](www.hivetracks.com)
+🐝 I write newsletters for [HiveTracks](www.hivetracks.com)
 
-- 📫 Reach me at **emma@ruenzel.de**
+📫 Reach me at **emma@ruenzel.de**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a></p>

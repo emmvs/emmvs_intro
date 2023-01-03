@@ -3,7 +3,7 @@
 
 👩🏼‍💻 Working on **nb-jb**, a website for women billard players
 
-🌱 Currently learning **React Native** while working as a Teacher at a coding school 
+🌱 Currently learning **React Native** while working as a teacher at a coding school 
 
 💻 Collaborating on building a quiz app for a NGO called **Tech4Girls**
 

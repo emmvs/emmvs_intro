@@ -1,5 +1,5 @@
-<h2 align="center">☀️ Wassuuup, I’m Emma</h3>
-<h3 align="center">Full-Stack Web Dev </h3>
+<h2>☀️ Wassuuup, I’m Emma</h3>
+<h3>Full-Stack Web Dev </h3>
 
 👩🏼‍💻 Working on **nb-jb**, a website for women billard players
 

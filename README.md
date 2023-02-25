@@ -1,5 +1,5 @@
 <h3>☀️ Wassuuup, I’m Emma</h3>
-<h2>Full-Stack Web Dev </h2>
+<h4>Full-Stack Web Dev </h4>
 
 👩🏼‍💻 Working on **nb-jb**, a website for women billard players in **Ruby on Rails** & **Java Script**
 

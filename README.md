@@ -1,9 +1,9 @@
 <h3>☀️ Wassuuup, I’m Emma</h3>
-<h3>Full-Stack Web Dev </h3>
+<h2>Full-Stack Web Dev </h2>
 
 👩🏼‍💻 Working on **nb-jb**, a website for women billard players in **Ruby on Rails** & **Java Script**
 
-🌱 Currently learning **React Native** while working as a teacher at a coding school 
+📖 Currently learning **Node.js** while working as a teacher at a coding school 
 
 💻 Collaborating on building a quiz app for a NGO called **Tech4Girls**
 

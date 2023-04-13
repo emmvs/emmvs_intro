@@ -3,9 +3,7 @@
 
 👩🏼‍💻 Working on **nb-jb**, a website for women billard players in **Ruby on Rails** & **Java Script**
 
-📖 Currently learning **Node.js** while working as a teacher at a coding school 
-
-💻 Collaborating on building a quiz app for a NGO called **Tech4Girls**
+💻 Collaborating on building a quiz app for a NGO called **Tech4Girls** while working as a teacher at a coding school 
 
 🐝 I write newsletters for [HiveTracks](www.hivetracks.com)
 

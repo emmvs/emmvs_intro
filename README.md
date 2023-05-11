@@ -13,6 +13,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,js,postgres,git&perline=3" />
+    <img src="https://skillicons.dev/icons?i=ruby,html,css,js,postgres,git&perline=3" />
   </a>
 </p>

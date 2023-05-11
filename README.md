@@ -11,4 +11,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=raspberrypi,ruby,html,css,js,postgres,git&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,ruby,html,css,js,postgres&perline=3)](https://skillicons.dev)

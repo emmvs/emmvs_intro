@@ -3,7 +3,7 @@
 
 👩🏼‍💻 Working on **nb-jb**, a website for women billard players in **Ruby on Rails** & **Java Script** & collaborating on building a quiz app for a NGO called **Tech4Girls** while working as a teacher at a coding school 
 
-🐝 I write newsletters for [HiveTracks](www.hivetracks.com)
+🐝 Writing newsletters for [HiveTracks](www.hivetracks.com)
 
 📫 Write me a letter at **emma@ruenzel.de**
 

@@ -11,8 +11,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,html,css,js,postgres,git&perline=3" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,ruby,html,css,js,postgres,git&perline=3)](https://skillicons.dev)

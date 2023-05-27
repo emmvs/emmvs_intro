@@ -1,9 +1,9 @@
 <h3>☀️ Wassuuup, I’m Emma</h3>
 <h4>Freelance Full-Stack Web Dev </h4>
 
-👩🏼‍💻 For fun, I work on **nb-jb**, a women billard club web app in **Ruby on Rails** & **Java Script** while collaborating on building a quiz app for a NGO called **Tech4Girls** while working as a teacher at a coding school 
+👩🏼‍💻 Currently working on **nb-jb**, a women billard club web app in **Ruby on Rails** & **Java Script** while collaborating on building a quiz app for a NGO called **Tech4Girls** while working as a teacher at a coding school 
 
-🐝 Sometimes, I write newsletters for [HiveTracks](www.hivetracks.com)
+🐝 I write newsletters for [HiveTracks](www.hivetracks.com)
 
 📫 Write me a letter at **emma@ruenzel.de**
 

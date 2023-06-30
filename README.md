@@ -3,7 +3,7 @@
 
 👩🏼‍💻 Working as a dev & teacher in web dev
 
-🐝 I write newsletters for [HiveTracks](www.hivetracks.com)
+🐝 Also, I write newsletters for [HiveTracks](www.hivetracks.com)
 
 📫 Write me a love letter at **emma@ruenzel.de**
 

@@ -1,7 +1,7 @@
 <h3>☀️ Wassuuup, I’m Emma</h3>
 <h4>Freelance Full-Stack Web Dev </h4>
 
-👩🏼‍💻 Working as a dev & teacher in web dev || 🐝 Also, I write newsletters for [HiveTracks](www.hivetracks.com)
+👩🏼‍💻 Working as a dev & web dev teacher || 🐝 Also, I write newsletters for [HiveTracks](www.hivetracks.com)
 
 📫 Write me a love letter at **emma@ruenzel.de**
 

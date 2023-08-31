@@ -2,7 +2,7 @@
 
 👩🏼‍💻 Working as a freelance full-stack dev & web dev teacher 
 
-🐝 Also, I build stuff & write newsletters for [HiveTracks](www.hivetracks.com) to save the bees
+🐝 Also, I build stuff & write newsletters for [HiveTracks](www.hivetracks.com) #SaveTheBees
 
 📫 Write me a love letter at **emma@ruenzel.de**
 

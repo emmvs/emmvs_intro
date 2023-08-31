@@ -1,4 +1,4 @@
-<h4>☀️ Wassuuup, I’m Emma</h4>
+<h3>☀️ Wassuuup, I’m Emma</h3>
 
 👩🏼‍💻 Working as a freelance full-stack dev & web dev teacher 
 
